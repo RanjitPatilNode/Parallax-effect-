@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.para1{
+    height: 100vh;
+    width: 100vw;
+    background-image: url(./pascal-debrunner-K9I-xm7-LpA-unsplash.jpg);
+    background-size: 100% 100% ;
+    background-attachment: fixed;
+}
+.para1 h2{
+    position: relative;
+    left: 500px;
+    top: 300px;
+    width: 280px;
+    height: 50px;
+    padding: 10px;
+    /* background-color: rgb(69, 77, 85); */
+    color: white;
+    text-align: center;
+}
+.para2{
+    height: 100vh;
+    width: 100vw;
+    background-image: url(/eberhard-grossgasteiger-Gx_HfG-4eQo-unsplash.jpg);
+    background-size: 100% 100% ;
+    background-attachment: fixed;
+}
+.para2 h2{
+    position: relative;
+    left: 500px;
+    top: 300px;
+    width: 280px;
+    height: 50px;
+    padding: 10px;
+    /* background-color: rgb(69, 77, 85); */
+    color: white;
+    text-align: center;
+}
+.para{
+    width: 100vw;
+    height: fit-content;
+    padding: 50px;
+    text-align: center;
+    background-color: rgba(117, 110, 110, 0.63);
+}
+.para3{
+    height: 100vh;
+    width: 100vw;
+    background-image: url(/chris-barbalis-4OsJnt_qnlo-unsplash.jpg);
+    background-size: 100% 100% ;
+    background-attachment: fixed;
+}
+.para3 h2{
+    position: relative;
+    left: 500px;
+    top: 300px;
+    width: 280px;
+    height: 50px;
+    padding: 10px;
+    /* background-color: rgb(69, 77, 85); */
+    color: white;
+    text-align: center;
+}
